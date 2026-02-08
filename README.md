@@ -1,4 +1,4 @@
-Movie Recommendation System
+Movie Recommended System
 
 This project is a Movie Recommendation System developed using Python.
 The system suggests movies that are similar to a selected movie by analyzing movie details such as genres, overview, keywords, cast, and crew.
@@ -50,3 +50,4 @@ Data Analysis & Interpretation
  This helps users discover movies related to their interests.
 
 Output
+http://192.168.1.5:8501/
