@@ -49,5 +49,6 @@ Data Analysis & Interpretation
  When a movie is selected, the system finds other movies with similar characteristics and recommends them.
  This helps users discover movies related to their interests.
 
-Output
-http://192.168.1.5:8501/
+deployment link :
+ Local URL: http://localhost:8501
+  Network URL: http://192.168.1.2:8501
