@@ -50,5 +50,5 @@ Data Analysis & Interpretation
  This helps users discover movies related to their interests.
 
 deployment link :
- Local URL: http://localhost:8501
-  Network URL: http://192.168.1.2:8501
+  Local URL: http://localhost:8503                                                                                                                                               
+  Network URL: http://192.168.1.2:8503                                                                                                                                           
